@@ -1,9 +1,7 @@
-<h1 align="center">📜 Certifications</h1>
----
+<h1 align="center">📜 Certifications 🎒</h1>
 
-A designated Library of all the Certifications I earned!
+<h3 align="center">A designated Library of all the Certifications I earned!</h3>
 
----
 <h2 align="center">Autodesk CAD/CAM/CAE for Mechanical Engineering</h2>
 <p align="center">
   <img src="assets/Autodesk_CADCAMCAE_Cert.png" alt="Autodesk CAD/CAM/CAE for Mechanical Engineering Certificate" width="900" />
