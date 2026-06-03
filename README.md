@@ -1,4 +1,4 @@
-<h1 align="center">📜 Certifications 🎒</h1>
+<h1 align="center">📜 Certifications 🏅</h1>
 
 <h3 align="center">A designated Library of all the Certifications I've earned!</h3>
 
@@ -90,4 +90,61 @@
 <h2 align="center">Business Foundations Specialization (Wharton Online)</h2>
 <p align="center">
   <img src="assets/Wharton_BusinessFoundationSpecialization_Cert.png" alt="Wharton Business Foundations Specialization Certificate" width="900" />
+</p>
+
+<h1 align="center">🎒 Academic Awards/Honours 🏆</h1>
+
+<h2 align="center">OSSD</h2>
+<p align="center">
+  <img src="assets/Ontario Secondary School Diploma (OSSD).jpg" alt="OSSD Certificate" width="900" />
+</p>
+
+<h2 align="center">Ontario Scholar</h2>
+<p align="center">
+  <img src="assets/Ontario Scholar Award.jpg" alt="Ontario Scholar Award Certificate" width="900" />
+</p>
+
+<h2 align="center">Senior Honour Roll</h2>
+<p align="center">
+  <img src="assets/PHS - Honour Roll Certificaate - Grade 12.jpg" alt="Grade 12 Honour Roll Certificate" width="900" />
+</p>
+
+<h2 align="center">Economics - Highest Proficiency</h2>
+<p align="center">
+  <img src="assets/PHS - Highest Proficieny Award - Economics.jpg" alt="Economics - Highest Proficiency" width="900" />
+</p>
+
+<h2 align="center">Business Leadership & Management - Highest Proficiency</h2>
+<p align="center">
+  <img src="assets/PHS - Highest Proficieny Award - Business Leadership and Management Fundamentals.jpeg" alt="Business Leadership & Management - Highest Proficiency" width="900" />
+</p>
+
+<h2 align="center">Freshman Honour Roll</h2>
+<p align="center">
+  <img src="assets/PHS - Honour Roll Certificaate - Grade 9.jpg" alt="Grade 9 Honour Roll Certificate" width="900" />
+</p>
+
+<h2 align="center">Dramatic Arts - Highest Proficiency</h2>
+<p align="center">
+  <img src="assets/PHS - Highest Proficieny Award - Dramatic Arts.jpg" alt="Dramatic Arts - Highest Proficiency" width="900" />
+</p>
+
+<h2 align="center">Core French - Highest Proficiency</h2>
+<p align="center">
+  <img src="assets/PHS - Highest Proficieny Award - French.jpg" alt="Core French - Highest Proficiency" width="900" />
+</p>
+
+<h2 align="center">Geography - Highest Proficiency</h2>
+<p align="center">
+  <img src="assets/PHS - Highest Proficieny Award - Geography.jpg" alt="Geography - Highest Proficiency" width="900" />
+</p>
+
+<h2 align="center">DDSB Certificate of Promotion</h2>
+<p align="center">
+  <img src="assets/Vimy Ridge - DDSB Certification of Promotion.jpg" alt="DDSB Certificate of Promotion" width="900" />
+</p>
+
+<h2 align="center">Vimy Ridge Diploma</h2>
+<p align="center">
+  <img src="assets/Vimy Ridge - Elementary School Graducation Diploma.jpg" alt="Vimy Ridge Diploma" width="900" />
 </p>
