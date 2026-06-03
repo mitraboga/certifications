@@ -97,6 +97,8 @@
   <img src="assets/Wharton_BusinessFoundationSpecialization_Cert.png" alt="Wharton Business Foundations Specialization Certificate" width="900" />
 </p>
 
+---
+
 <h1 align="center">🎒 Academic Awards/Honours 🏆</h1>
 
 <h2 align="center">OSSD</h2>
