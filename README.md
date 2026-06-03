@@ -52,6 +52,11 @@
   <img src="assets/Harvard_CS50AI_Cert.png" alt="Harvard CS50AI Certificate" width="900" />
 </p>
 
+<h2 align="center">CS50CS: Introduction to Cybersecurity</h2>
+<p align="center">
+  <img src="assets/Harvard_CS50CS_Cert.png" alt="Harvard CS50x Certificate" width="900" />
+</p>
+
 <h2 align="center">Pre-MBA Statistics (IIMA)</h2>
 <p align="center">
   <img src="assets/IIMA_PreMBAStatistics_Cert.png" alt="IIMA Pre-MBA Statistics Certificate" width="900" />
